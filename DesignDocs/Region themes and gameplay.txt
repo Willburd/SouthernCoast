@@ -1,0 +1,17 @@
+== Drainage Channel
+-long rooms traveling from drainage to shore
+-Miros?
+
+== Floating Facility
+-water focused area like the refinery arena
+
+== Outer Farms
+-Deer
+-Wormgrass
+-double connection to valley/bridge
+
+== Valley and Bridge
+-lower valley that is extremely hard to climb out of
+-double connection to outer farms
+
+== Ruins
