@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0
+Grime: 0.3152174
+Palette: 4
+EffectColorA: 2
+EffectColorB: 6
+PlacedObjects: ExitSymbolShelter><731.9465><110.4626><, 
+AmbientSounds: OMNI><AM_IND-Utility03.ogg><858.9113><644.6318><0.3804348><1, OMNI><SO_WAT-ProperDrips.ogg><675.4245><648.6523><0.2934783><1, 
+FadePalette: 8, 0.2282609
