@@ -13,3 +13,16 @@ hanging roots
 slime
 
 rare alien plant props (the striped ones from sub)
+
+
+
+
+room structures:
+drainage water vat walls (arches that progress into fenced slots.)
+industrial giant tanks (giant popes out the top, with wagon wheel valves.)
+MultiLayer fences
+UWroof trenches
+pipes with metal struts between
+rare misc-tanks
+wall vents, especially in trenches
+HI-SH style hallways, but use giant pipes instead of the 2x2 ones
