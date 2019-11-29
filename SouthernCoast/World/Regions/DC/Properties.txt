@@ -1,0 +1,11 @@
+Palette: 4
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.5
+overseersMin: 0
+overseersMax: 5
+playerGuideOverseerSpawnChance: 0.0
+Subregion: Drainage Canal
+Room Setting Templates: Inside, Canal, Shore
