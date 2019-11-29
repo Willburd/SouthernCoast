@@ -1,7 +1,3 @@
-== Drainage Channel
--long rooms traveling from drainage to shore
--Miros?
-
 == Floating Facility
 -water focused area like the refinery arena
 
