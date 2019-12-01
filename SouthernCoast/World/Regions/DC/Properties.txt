@@ -10,3 +10,4 @@ playerGuideOverseerSpawnChance: 0.0
 Subregion: Drainage Canal
 Room Setting Templates: Inside, Canal, Shore
 Room_Attr: DC_CANAL02: MirosBird-4,
+Room_Attr: DC_CANAL03: MirosBird-4,
