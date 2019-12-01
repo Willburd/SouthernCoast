@@ -1,0 +1,4 @@
+DangerType: FloodAndRain
+Grime: 0.2195653
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><838.1885><569.3168><0.3369565><1, 
+FadePalette: 8, 0.04347826
