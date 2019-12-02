@@ -1,3 +1,4 @@
 Template: DC_SettingsTemplate_Canal
 Effects: Fog-0.6195652-33-140, 
+AmbientSounds: SPOT><AM_WAT-Sea01.ogg><661.4366><525.928><0.3478261><1><5368.505><436.6483><-960.3553><-2.355347><0><1, 
 FadePalette: 13, 0.3043478, 0.3369565, 0.3804348, 0.4347826, 0.4782609
