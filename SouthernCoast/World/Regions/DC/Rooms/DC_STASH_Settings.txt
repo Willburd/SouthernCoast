@@ -1,0 +1,3 @@
+DangerType: FloodAndRain
+PlacedObjects: ScavengerTreasury><438.169><145.1069><0~100, ScavengerTreasury><575.8548><125.8625><0~100, 
+FadePalette: 22, 0.3913043
