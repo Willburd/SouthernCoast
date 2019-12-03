@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Rain
+Clouds: 0.02086938
+Grime: 0.2413045
+Palette: 4
+EffectColorA: 2
+EffectColorB: 6
+PlacedObjects: ExitSymbolShelter><228.4008><110.0763><, ExitSymbolShelter><729.4568><112.4453><, NoSpearStickZone><478.7802><259.9477><-7~263, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><836.4063><638.5734><0.3478261><1, OMNI><AM_ENV-LightWind.ogg><658.1036><640.8863><0.2065217><0.9217392, OMNI><AM_ENV-LushNight.ogg><837.9432><565.4485><0.2826087><0.9608696, 
+FadePalette: 22, 0.4456522
