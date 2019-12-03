@@ -1,0 +1,4 @@
+Template: DC_SettingsTemplate_Canal
+Effects: Fog-0.4891304-293-80, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><843.359><630.3323><0.4456522><1, 
+FadePalette: 13, 0.1195652, 0.1413043
