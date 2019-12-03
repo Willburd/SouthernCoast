@@ -1,0 +1,3 @@
+Template: DC_SettingsTemplate_Canal
+Palette: 10
+FadePalette: 13, 0.6086956
