@@ -1,0 +1,5 @@
+Template: DC_SettingsTemplate_Canal
+Effects: Fog-0.5-303-32, TinyDragonFly-0.173913-302-94, 
+PlacedObjects: ScavengerOutpost><979.84><160.37><-28~336~-463~162~0.114555~5~46, NoSpearStickZone><102.7128><240.3035><-2~135, NoSpearStickZone><2836.597><353.5751><-9~135, 
+AmbientSounds: OMNI><SO_WAT-TubWater.ogg><840.9166><493.3182><0.0326087><0.1, OMNI><AM_ENV-Outside.ogg><840.5513><647.4433><0.4565217><1, SPOT><AM_ENV-LushNight.ogg><671.6504><593.6318><0.3586957><1><2962.65><601.6318><-242.3553><-175.3553><0><1, SPOT><AM_ENV-LushNight.ogg><496.8><589.5038><0.4130435><0.9804348><-160.2><478.5038><-106.3553><-242.3553><0><1, SPOT><AM_ENV-WinterHum.ogg><664.9248><477.9029><0.2934783><1><1473.925><456.9027><-402.3553><-307.3553><0><1, 
+FadePalette: 22, 0.1956522, 0.1956522, 0.1847826
