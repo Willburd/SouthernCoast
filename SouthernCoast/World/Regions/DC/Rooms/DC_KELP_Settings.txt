@@ -1,0 +1,4 @@
+DangerType: FloodAndRain
+Grime: 0.1217393
+AmbientSounds: OMNI><AM_IND-Utility02.ogg><837.3013><645.9775><0.1195652><0.3934783, 
+FadePalette: 22, 0.6956522
