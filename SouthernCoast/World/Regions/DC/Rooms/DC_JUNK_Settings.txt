@@ -1,0 +1,3 @@
+Grime: 0.154348
+AmbientSounds: OMNI><AM_IND-Utility02.ogg><837.3013><645.9775><0.07608695><0.1195652, OMNI><AM_ENV-LightWind.ogg><842.3665><571.5875><0.2173913><1, 
+FadePalette: 22, 0.6739131
