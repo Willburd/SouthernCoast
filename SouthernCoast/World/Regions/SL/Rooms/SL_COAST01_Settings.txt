@@ -1,0 +1,3 @@
+Template: SL_SettingsTemplate_Sewer
+Effects: Fog-0-20-20, RockFlea-0.75-21-75, 
+FadePalette: 8, 0.2934783, 0.2826087
