@@ -1,5 +1,8 @@
 == Floating Facility
 -water focused area like the refinery arena
+-very tall, possibly above clouds at peak
+-echo
+-multiple towers tightly packed together with bridges between
 
 == Outer Farms
 -Deer
