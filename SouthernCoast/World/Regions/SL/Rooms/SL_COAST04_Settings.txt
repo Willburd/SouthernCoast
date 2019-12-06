@@ -1,0 +1,3 @@
+Template: SL_SettingsTemplate_Sewer
+Clouds: 0.8478261
+FadePalette: 13, 0.2717391, 0.1847826, 0.1195652, 0.05434782
