@@ -1,0 +1,2 @@
+PlacedObjects: NoLeviathanStrandingZone><853.1738><875.0989><922~-39, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>BM_SL_SHORE<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>969.7402<tB>476.4498<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>111, 
