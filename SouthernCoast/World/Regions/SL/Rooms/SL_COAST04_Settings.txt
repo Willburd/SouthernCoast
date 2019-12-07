@@ -1,3 +1,4 @@
 Template: SL_SettingsTemplate_Sewer
 Clouds: 0.8478261
+AmbientSounds: SPOT><AM_WIN-SubWnd.ogg><846.8004><597.4874><0.5><1><722.8004><1212.487><-166.3553><-154.3553><0><1, 
 FadePalette: 13, 0.2717391, 0.1847826, 0.1195652, 0.05434782
