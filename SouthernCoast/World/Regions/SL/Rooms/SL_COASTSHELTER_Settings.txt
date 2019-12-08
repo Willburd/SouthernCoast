@@ -1,0 +1,6 @@
+Template: SL_SettingsTemplate_Sewer
+Clouds: 0.5217391
+Grime: 0.2195653
+BkgDroneVolume: 0
+AmbientSounds: SPOT><waterGurgleLOOP1.wav><801.1497><456.6173><0.423913><1><-161.8503><358.6173><-88.35535><-259.3553><0><0.3500001, 
+FadePalette: 8, 0.4021739
