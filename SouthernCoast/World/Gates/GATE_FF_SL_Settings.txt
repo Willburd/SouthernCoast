@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.8695652
+Grime: 0.2065217
+BkgDroneVolume: 0
+Palette: 13
+EffectColorA: 0
+EffectColorB: 7
+PlacedObjects: ExitSymbolShelter><50.40472><231.8767><, ExitSymbolShelter><907.4021><192.8799><, 
+FadePalette: 8, 0.7826087

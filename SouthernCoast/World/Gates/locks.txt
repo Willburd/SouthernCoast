@@ -18,3 +18,4 @@ GATE_UW_SS : 5 : 1
 GATE_DS_DC : 4 : 2
 GATE_VB_DC : 3 : 2
 GATE_DC_FF : 4 : 3
+GATE_FF_SL : 4 : 4
