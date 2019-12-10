@@ -1,14 +1,3 @@
-== Floating Facility
--water focused area like the refinery arena
--very tall, possibly above clouds at peak
--echo
--multiple towers tightly packed together with bridges between
-
-== Outer Farms
--Deer
--Wormgrass
--double connection to valley/bridge
-
 == Valley and Bridge
 -lower valley that is extremely hard to climb out of
 -double connection to outer farms

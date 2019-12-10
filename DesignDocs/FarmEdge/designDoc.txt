@@ -1,0 +1,34 @@
+== Outer Farms
+-Deer
+-Wormgrass
+-double connection to valley/bridge
+-deer travel between locations, caves otherwise
+-rare deer caves
+
+
+
+blackgoo
+grass
+light horsetails
+thorn growers
+hanging roots
+thick chains indoors
+thick roots
+slime
+
+
+room structures:
+raised stone heads
+stone heads
+rare harvesters
+barbed wire fences
+stone arches
+rare stone panels
+broken buildings with vents(bricks and trash edges)
+sub wall grinders (gears out of walls)
+
+underground structures:
+stone heads
+chaotic stone structures
+small signs materials
+pipes
