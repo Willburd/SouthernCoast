@@ -16,6 +16,10 @@ thick chains indoors
 thick roots
 slime
 
+fireflys
+ants
+20% fog
+
 
 room structures:
 raised stone heads
