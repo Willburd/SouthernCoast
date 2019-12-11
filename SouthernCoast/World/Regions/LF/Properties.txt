@@ -45,3 +45,5 @@ Room_Attr: LF_E05: Vulture-3,BigSpider-1,SpitterSpider-1,SmallNeedleWorm-2,BigNe
 Room_Attr: LF_B04: CicadaA-1,CicadaB-1,SmallCentipede-3,SmallNeedleWorm-1,BigNeedleWorm-1,
 Room_Attr: LF_D08: YellowLizard-4,CyanLizard-4,CicadaA-1,CicadaB-1,SmallCentipede-3,BigSpider-3,SpitterSpider-3,SmallNeedleWorm-2,BigNeedleWorm-2,
 Room_Attr: LF_S03: CyanLizard-1,
+Room_Attr: LF_COAST01: Vulture-1,KingVulture-1,
+Room_Attr: LF_COAST02: Vulture-1,KingVulture-1,
