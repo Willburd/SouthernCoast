@@ -6,5 +6,5 @@ BkgDroneVolume: 0
 Palette: 13
 EffectColorA: 0
 EffectColorB: 7
-PlacedObjects: ExitSymbolShelter><50.40472><231.8767><, ExitSymbolShelter><907.4021><192.8799><, 
+PlacedObjects: ExitSymbolShelter><50.40472><231.8767><, ExitSymbolShelter><907.4021><192.8799><, NoSpearStickZone><478.0905><252.3793><-3~266, 
 FadePalette: 8, 0.7826087
