@@ -1,0 +1,6 @@
+Clouds: 0.08695652
+Grime: 0.4347826
+BkgDroneVolume: 0
+EffectColorB: 13
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><851.9443><633.9529><0.2608696><0.823913, OMNI><AM_ENV-Outside.ogg><672.9014><633.3259><0.2826087><1, 
+FadePalette: 3, 0.6413044
