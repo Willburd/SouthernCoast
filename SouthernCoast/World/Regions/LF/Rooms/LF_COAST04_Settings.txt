@@ -1,0 +1,6 @@
+DangerType: FloodAndRain
+BkgDroneVolume: 0
+EffectColorA: 4
+PlacedObjects: PuffBall><732.0523><250.7198><0~0~2~3, PuffBall><754.3732><224.9076><0~0~2~3, PuffBall><1338.194><253.0504><0~0~2~3, PuffBall><1370.048><255.1942><0~0~2~3, PuffBall><1495.83><228.1057><0~0~2~3, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><864.9274><633.0923><0.2608696><0.823913, OMNI><AM_ENV-Outside.ogg><689.8768><633.3424><0.25><1, SPOT><AM_ENV-Pasture.ogg><868.1208><520.3406><0.3043478><1><2140.121><554.3406><-423.3553><-212.3553><0><1, SPOT><waterGurgleLOOP1.wav><702.5956><520.1229><0.3369565><1><-129.4044><290.1229><324.6447><-17.35535><0><0.6434784, 
+FadePalette: 3, 0.5978261, 0.5978261

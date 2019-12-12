@@ -50,7 +50,8 @@ LF_D08 : LF_A05, LF_B04
 LF_S03 : LF_B04 : SHELTER
 LF_COAST01 : LF_A10, LF_COAST02
 LF_COAST02 : LF_COAST01, LF_COAST03
-LF_COAST03 : LF_COAST02 : PERF_HEAVY
+LF_COAST03 : LF_COAST02, LF_COAST04 : PERF_HEAVY
+LF_COAST04 : DISCONNECTED, LF_COAST03
 END ROOMS
 
 CREATURES
@@ -67,6 +68,7 @@ LF_D06 : 3-Small Centipede-2, 4-Small Centipede-2
 LF_D02 : 3-BigNeedleWorm, 3-SmallNeedleWorm-2
 LF_F02 : 3-BigNeedleWorm, 3-SmallNeedleWorm-3
 LF_A04 : 2-Small Centipede-3
+LF_COAST04 : 3-Small Centipede-3, 4-Centipede
 LINEAGE : LF_A03 : 3 : Small Centipede-0.5, Centipede-{4}-0.5, Centipede-{6}-0.5, Centipede-{8}-0.5, NONE-0
 LINEAGE : LF_A05 : 4 : Small Centipede-0.5, Centipede-{3}-0.5, Centipede-{5}-0.5, Centipede-{7}-0.5, NONE-0
 LINEAGE : LF_C03 : 4 : Small Centipede-0.5, Centipede-{4}-0.5, Centipede-{6}-0.5, Centipede-{8}-0.5, NONE-0
