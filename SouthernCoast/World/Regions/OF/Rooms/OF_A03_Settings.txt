@@ -1,1 +1,2 @@
+Effects: BorderPushBack-1-17-76, 
 FadePalette: 14, 0.2065217
