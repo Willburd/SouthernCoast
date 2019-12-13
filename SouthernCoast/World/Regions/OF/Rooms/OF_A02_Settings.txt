@@ -1,0 +1,7 @@
+Template: OF_SettingsTemplate_Inside
+Clouds: 0.07608695
+Grime: 0.2391304
+RandomItemDensity: 0.5652174
+RandomItemSpearChance: 0.373913
+Palette: 3
+FadePalette: 14, 0.3152174
