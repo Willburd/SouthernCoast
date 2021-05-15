@@ -1,0 +1,12 @@
+{
+   "regionPackName": "Southern Coast", 
+   "description": "...", 
+   "author": "WILLBURD", 
+   "activated": true, 
+   "loadOrder": 2134324, 
+   "regions": "OF, DC, VB", 
+   "thumbURL": "", 
+   "version": "1.0", 
+   "requirements": "", 
+   "checksum": "2cdec5d523857147fe23738e35cc4de4" 
+}
