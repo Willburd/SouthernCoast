@@ -14,8 +14,8 @@ BkgDroneNoThreatVolume: 1
 RandomItemDensity: 0.5652174
 RandomItemSpearChance: 0.373913
 WaterReflectionAlpha: 1
-Palette: 2
+Palette: 3
 EffectColorA: 9
 EffectColorB: 18
-Effects: SkyAndLightBloom-0.08-20-20, 
+Effects: SkyAndLightBloom-0.03-20-20, 
 AmbientSounds: OMNI><AM_SUB-BlankState.ogg><688.5959><640.1755><0.3826087><0.9217392, OMNI><AM_ENV-WinterHum.ogg><864.378><637.4037><0.2586957><0.9217392, 

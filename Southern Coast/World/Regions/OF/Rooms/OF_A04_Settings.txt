@@ -1,5 +1,4 @@
 Template: OF_SettingsTemplate_Inside
-Palette: 2
 Effects: SkyAndLightBloom-0.1413043-30-30, 
 PlacedObjects: LightSource><504.5197><753.801><0.4130435~Environment~-166~-395~346~-601.3975~1~1, 
-FadePalette: 14, 0.326087
+FadePalette: 14, 0.25
