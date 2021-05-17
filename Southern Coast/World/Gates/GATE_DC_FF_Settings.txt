@@ -6,8 +6,8 @@ SecondWaveLength: 0.07970992
 SecondWaveAmplitude: 0.326087
 Clouds: 0.02086938
 Grime: 0.2630436
-Palette: 13
+Palette: 122
 EffectColorA: 2
 EffectColorB: 6
 AmbientSounds: OMNI><AM_WAT-Sea01.ogg><867.9453><641.0433><0.4782609><0.9804348, 
-FadePalette: 122, 0.25
+FadePalette: 13, 0.6739131
