@@ -9,3 +9,4 @@ overseersMax: 1
 playerGuideOverseerSpawnChance: 0
 Subregion: Mesa
 Room Setting Templates: Outside, Inside, Caves
+Room_Attr: OF_C01: Deer-4,
