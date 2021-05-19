@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.3152174
+Grime: 0.1956522
+BkgDroneVolume: 0
+Palette: 3
+EffectColorA: 9
+EffectColorB: 18
+PlacedObjects: ExitSymbolShelter><733.1151><391.3524><, NoSpearStickZone><478.9157><241.612><25~288, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><687.0518><619.2769><0.3804348><0.9217392, OMNI><AM_ENV-WinterHum.ogg><511.4344><619.5773><0.25><0.9217392, 
+FadePalette: 4, 0.6847826

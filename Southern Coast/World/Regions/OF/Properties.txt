@@ -10,3 +10,6 @@ playerGuideOverseerSpawnChance: 0
 Subregion: Mesa
 Room Setting Templates: Outside, Inside, Caves
 Room_Attr: OF_C01: Deer-4,
+Room_Attr: OF_D01: Deer-4,
+Room_Attr: OF_E01: Deer-4,
+Room_Attr: OF_E02: Deer-4,

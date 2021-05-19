@@ -20,3 +20,4 @@ GATE_VB_DC : 3 : 2
 GATE_DC_FF : 4 : 3
 GATE_FF_SL : 4 : 4
 GATE_OF_LF : 2 : 4
+GATE_OF_VB : 2 : 3

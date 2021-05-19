@@ -1,0 +1,3 @@
+Template: OF_SettingsTemplate_Inside
+Effects: SkyAndLightBloom-0.09782609-30-30, 
+FadePalette: 4, 0.5434783

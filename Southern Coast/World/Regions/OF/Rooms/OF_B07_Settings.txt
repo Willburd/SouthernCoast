@@ -1,0 +1,3 @@
+Template: OF_SettingsTemplate_Inside
+Clouds: 0.1956522
+FadePalette: 4, 0.6086956, 0.6413044

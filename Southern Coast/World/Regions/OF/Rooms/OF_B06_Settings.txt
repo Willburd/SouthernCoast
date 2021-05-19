@@ -1,0 +1,2 @@
+Template: OF_SettingsTemplate_Inside
+FadePalette: 14, 0.2608696, 0.2717391
