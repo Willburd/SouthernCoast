@@ -1,0 +1,2 @@
+PlacedObjects: NoSpearStickZone><3947.355><423.1382><0~100, 
+FadePalette: 4, 0.5326087, 0.4565217, 0.4130435, 0.3586957

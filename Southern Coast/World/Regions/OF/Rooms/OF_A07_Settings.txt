@@ -1,4 +1,4 @@
 Template: OF_SettingsTemplate_Inside
 Clouds: 0.1956522
 Effects: SkyAndLightBloom-0-30-30, Fog-0.4673913-31-95, 
-FadePalette: 14, 0.4456522
+FadePalette: 4, 0.3804348

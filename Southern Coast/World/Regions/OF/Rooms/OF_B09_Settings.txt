@@ -1,0 +1,2 @@
+PlacedObjects: ReliableSpear><573.5372><1285.447><, ReliableSpear><612.4688><1235.448><, 
+FadePalette: 4, 0.326087, 0.3804348
